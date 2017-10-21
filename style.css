@@ -80,7 +80,7 @@ figcaption {
   display: flex;
   background-image:url(images/img-locations-background.jpg);
   height: 500px;
-  width: auto;
+  width: 1200px;
   align-items: center;
   justify-content: center;
 }
