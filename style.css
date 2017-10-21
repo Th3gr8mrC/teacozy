@@ -34,6 +34,10 @@ header img {
   width: auto;
 }
 
+a {
+  color: seashell;
+}
+
 .container {
   background-image:url(images/img-mission-background.jpg);
   height: 700px;
