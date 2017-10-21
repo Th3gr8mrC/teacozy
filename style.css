@@ -57,6 +57,9 @@ a {
   justify-content: center;
 
 }
+.monthpics {
+  width: 1000;
+}
 .monthpics img {
   display: flex;
   height: 200px;
@@ -83,6 +86,10 @@ figcaption {
   margin: 40px;
   width: 300px;
   height: auto;
+}
+
+.contact {
+  height: 200px;
 }
 
 .copyright {
