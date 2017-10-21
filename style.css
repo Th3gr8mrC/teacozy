@@ -18,10 +18,17 @@ header {
   height: 69px;
   width: 100%;
 }
+
 header img {
-  height: 50px;
+  height: 700px;
   width: auto;
 }
+
 .mission {
   background-image:url(images/img-mission-background.jpg);
+}
+
+.month img {
+  height: 200px;
+  width: 300px;
 }
