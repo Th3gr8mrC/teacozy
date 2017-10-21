@@ -77,12 +77,13 @@ figcaption {
 
 }
 .locations {
-  display: flex;
   background-image:url(images/img-locations-background.jpg);
   height: 500px;
   width: 1200px;
   align-items: center;
-  justify-content: center;
+}
+.addresses {
+  display: flex;
   flex-direction: row;
 }
 
