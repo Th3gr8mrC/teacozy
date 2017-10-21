@@ -26,18 +26,21 @@ header img {
 
 .container {
   background-image:url(images/img-mission-background.jpg);
-  margin-top: 69px;
   height: 700px;
   width: auto;
+  align-items: center;
+  justify-content: center;
+  
 }
 
 .mission {
     background-color: black;
 }
 .month {
-  display:flex;
+  
 }
 .monthpics img {
+  display: flex;
   height: 200px;
   width: 300px;
   margin: 10px
