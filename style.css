@@ -7,7 +7,8 @@ body {
   text-align: center;
   margin: 0;
 }
-
+.main {
+  
 header {
   background-color: black;
   display: flex;
@@ -82,6 +83,7 @@ figcaption {
   width: 1200px;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
 }
 
 .col {
