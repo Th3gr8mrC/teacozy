@@ -26,6 +26,18 @@ header {
   margin: auto;
 }
 
+#mission {
+  background-image:url(images/img-mission-background.jpg);
+  padding-top: 69px;
+  height: 700px;
+}
+
+#mission .content {
+  margin: auto;
+  width: 100%;
+  background-color: black;
+}
+
 nav {
   padding-right: 20px;
   text-align: right;
@@ -49,13 +61,11 @@ a {
 
 .container {
   display: flex;
-  background-image:url(images/img-mission-background.jpg);
-  height: 700px;
   width: 1200px;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding-top: 69px;
+
 }
 
 .mission {
@@ -69,24 +79,18 @@ h2, h3, h4 {
   padding: 10px
 }
 
-.month {
+#month {
   height: 700px;
   width: 1000px;
   margin: auto;
   padding-top: 69px;
 }
 
-.monthpics {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 figure {
-  display: flex;
+  padding: 5px;
 }
 
-.monthpics img {
+figure img {
   height: 200px;
   width: 300px;
   margin: 10px;
