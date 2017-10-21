@@ -63,7 +63,12 @@ a {
   width: 300px;
   margin: 10px
 }
+figcaption {
+  display: inline-block;
+  width: 300px;
+  margin: 10px;
 
+}
 .locations {
   display: flex;
   background-image:url(images/img-locations-background.jpg);
