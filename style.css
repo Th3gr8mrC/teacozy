@@ -57,6 +57,9 @@ header img {
 
 .col {
   background-color: black;
+  margin: 40px;
+  width: 300px;
+  height: auto;
 }
 
 .copyright {
