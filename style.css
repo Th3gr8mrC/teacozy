@@ -50,7 +50,9 @@ a {
 }
 
 .mission {
-    background-color: black;
+  background-color: black;
+  width: 1200px;
+  
 }
 .month {
   align-items: center;
@@ -58,7 +60,7 @@ a {
 
 }
 .monthpics {
-  width: 1000;
+  width: 1000px;
 }
 .monthpics img {
   display: flex;
