@@ -18,13 +18,12 @@ header {
 }
 
 nav {
-  padding-right: 20px;
   text-align: right;
 }
 
 nav span {
   display: inline-block;
-  padding: 10px 10px;
+  padding: 20px 10px;
 }
 
 header img {
@@ -85,7 +84,6 @@ figure {
 
 figure img {
   height: 200px;
-  width: 300px;
   margin: 10px;
   display: block;
 }
