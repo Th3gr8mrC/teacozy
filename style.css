@@ -37,7 +37,9 @@ header img {
     background-color: black;
 }
 .month {
-  
+  align-items: center;
+  justify-content: center;
+
 }
 .monthpics img {
   display: flex;
