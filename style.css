@@ -22,3 +22,6 @@ header img {
   height: 50px;
   width: auto;
 }
+.mission {
+  background-image:url(images/img-mission-background.jpg);
+}
