@@ -24,12 +24,25 @@ header img {
   width: auto;
 }
 
-.mission {
+.container {
   background-image:url(images/img-mission-background.jpg);
-  padding-top: 69px;
+  margin-top: 69px;
+  height: 700px;
+  width: auto;
+}
+
+.mission {
+  
 }
 
 .monthpics img {
   height: 200px;
   width: 300px;
+}
+
+.locations {
+  display: flex;
+  background-image:url(images/img-locations-background.jpg);
+  height: 500px;
+  width: auto;
 }
