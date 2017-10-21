@@ -62,8 +62,10 @@ a {
 .monthpics {
   width: 1000px;
 }
-.monthpics img {
+figure {
   display: flex;
+}
+.monthpics img {
   height: 200px;
   width: 300px;
   margin: 10px
